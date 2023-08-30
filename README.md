@@ -1,6 +1,6 @@
 # BoxPush-Grid-Game
 
-This repository contains a simple grid-based puzzle game where you push boxes to their designated positions. The objective is to solve each level by strategically moving the boxes while navigating obstacles. I focused more on learning javascript, than having pretty graphics. I wanted to try out creating a simple javascript game with loops while using simple ASCII character graphics.
+This repository contains a simple grid-based puzzle game where you push boxes to their designated positions. The objective is to solve each level by strategically moving the boxes while navigating obstacles. I focused more on learning javascript, than having pretty graphics. I wanted to try out creating a simple game in javascript with different loops, while using simple ASCII character graphics.
 
 ## Playing tutorial
 
