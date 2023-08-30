@@ -1,17 +1,17 @@
 # BoxPush-Grid-Game
 
-A simple grid-based puzzle game where you push boxes to their designated positions. The objective is to solve each level by strategically moving the boxes while navigating obstacles.
+This repository contains a simple grid-based puzzle game where you push boxes to their designated positions. The objective is to solve each level by strategically moving the boxes while navigating obstacles. I didn't focus on graphics too much and tried to learn javascript instead.
 
 ## Features
 
 - Grid-based gameplay with a focus on puzzle-solving.
-- Multiple levels of increasing difficulty.
 - Intuitive controls for movement and box pushing.
-- Clear graphics and user-friendly interface.
 
 ## Getting Started
 
-1. Clone or download this repository to your local machine.
-2. Open the game's main HTML file (`index.html`) in a web browser that supports JavaScript.
-3. Use the arrow keys or WASD to control the player character and push boxes.
-4. Your goal is to push all boxes onto the target tiles to complete each level.
+1. Use the arrow keys to control the player character and push boxes.
+2. Your goal is to push all boxes onto the target tiles to complete each level.
+
+## Access the Project
+
+You can access the project and explore its features here: **[https://martinholts.github.io/BoxPush-Grid-Game/](https://martinholts.github.io/BoxPush-Grid-Game/)**
