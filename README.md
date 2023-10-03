@@ -10,4 +10,3 @@ This repository contains a simple grid-based puzzle game where you push boxes to
 ## Access the Project
 
 You can access the project and explore its features here: **[https://martinholts.github.io/BoxPush-Grid-Game/](https://martinholts.github.io/BoxPush-Grid-Game/)**
- 
