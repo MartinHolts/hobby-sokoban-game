@@ -7,6 +7,6 @@ This repository contains a simple grid-based puzzle game where you push boxes to
 1. Use the arrow keys to control the player character and push boxes.
 2. Your goal is to push all boxes onto the target tiles to complete each level.
 
-## Access the Project
+## Access the Project 
 
 You can access the project and explore its features here: **[https://martinholts.github.io/BoxPush-Grid-Game/](https://martinholts.github.io/boxpush-grid-game/)**
