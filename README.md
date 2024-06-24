@@ -13,4 +13,4 @@ You can access the project and explore its features here: **[https://martinholts
  
 ## Image of the game.
 
-![image]([https://github.com/MartinHolts/hobby-project-sokoban-game/assets/16961661/94f9a633-b79d-4b56-b780-539fc8e4943a])
+![image](https://github.com/MartinHolts/hobby-project-sokoban-game/assets/16961661/94f9a633-b79d-4b56-b780-539fc8e4943a)
