@@ -1,4 +1,4 @@
-# BoxPush-Grid-Game
+# sokoban-game
 
 This repository contains a simple puzzle game I made. I focused more on learning javascript, than having pretty graphics. I wanted to try out creating a simple game in javascript with different loops, while using simple ASCII character graphics.
 
