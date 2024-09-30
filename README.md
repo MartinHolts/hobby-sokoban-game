@@ -9,7 +9,7 @@ This repository contains a simple puzzle game I made. I focused more on learning
 
 ## Access the Project 
 
-You can access the project and explore its features here: **[https://martinholts.github.io/hobby-project-sokoban-game](https://martinholts.github.io/hobby-project-sokoban-game/)**
+You can access the project and explore its features here: **[https://martinholts.github.io/hobby-sokoban-game/](https://martinholts.github.io/hobby-sokoban-game/)**
  
 ## Image of the game.
 
